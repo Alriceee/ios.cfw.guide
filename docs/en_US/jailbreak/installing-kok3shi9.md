@@ -60,8 +60,16 @@ If your device crashes or restarts unexpectedly and the jailbreak isn't installe
 
 You should now be jailbroken with Cydia installed on your home screen. You can use Cydia to install <router-link to="/faq/#what-are-tweaks">tweaks</router-link>, themes and more.
 
+## Perma-signing the app
+1. Add [Karen's Repo](cydia://url/https://cydia.saurik.com/api/share#?source=https://cydia.akemi.ai/) and [Bigboss Repo](cydia://url/https://cydia.saurik.com/api/share#?source=http://apt.thebigboss.org/repofiles/cydia/)
+2. Install AppSync Unified (Karen's repo) and Filza (Bigboss repo)
+3. After clicking [Kok3shi9](https://kok3shidoll.github.io/download/kokeshi/kok3shi9_v4.0.3.ipa) click on open in filza
+4. Once filza open's up, click on the .ipa file, then click install.
+5. Your done.
+
 ::: tip
 
 If you wish to use a more modern package manager, continue to <router-link to="/installing-zebra">Installing Zebra</router-link>
 
 :::
+
